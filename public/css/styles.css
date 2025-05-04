@@ -1,0 +1,47 @@
+/* Estilos personalizados */
+:root {
+  --color-primario: #a82e4c;
+  --color-secundario: #ff9a8b;
+  --color-pastel-rosa: #ffcad4;
+  --color-pastel-turquesa: #a0e7e5;
+  --color-dorado: #ffd166;
+}
+
+body {
+  font-family: "Overlock", sans-serif;
+}
+
+.hero-section {
+  background-image: url("../img/Habitacion_de_Bebe_Acogedora.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-overlay {
+  background: linear-gradient(135deg, rgba(85, 60, 120, 0.45) 0%, rgba(180, 95, 85, 0.45) 100%);
+}
+.gallery-item {
+  transition: all 0.3s ease;
+}
+
+.gallery-item:hover {
+  transform: scale(1.03);
+}
+
+.gallery-overlay {
+  background: rgba(253, 163, 141, 0.7);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery-item:hover .gallery-overlay {
+  opacity: 1;
+}
+
+.service-icon {
+  transition: transform 0.3s ease;
+}
+
+.service-card:hover .service-icon {
+  transform: rotate(15deg) scale(1.1);
+}
