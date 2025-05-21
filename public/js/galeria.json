@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "src": "public/img/trabajos/ajuar_completo.png",
+    "alt": "Juego de Cuna azul",
+    "title": "Juego de cuna completo azul marino y blanco corona de rey",
+    "description": "Juego de Cuna azul.",
+    "category": "juego de cuna"
+  },
+  {
+    "id": 2,
+    "src": "public/img/trabajos/cambiador.png",
+    "alt": "Cambiador rosa y gris con motivo de elefante",
+    "title": "Cambiador rosa y gris con motivo de elefante",
+    "description": "Cambiador rosa y gris.",
+    "category": "bebes"
+  },
+  {
+    "id": 3,
+    "src": "public/img/trabajos/cojin_lactancia.png",
+    "alt": "Cojin Lactancia",
+    "title": "Cojin Lactancia motivo pelota de futbol",
+    "description": "Cojin Lactancia",
+    "category": "sabanas"
+  },
+  {
+    "id": 4,
+    "src": "public/img/trabajos/cuna_colores.png",
+    "alt": "Cuna de colores",
+    "title": "Cuna de colores con motivos de la animales",
+    "description": "Cuna de colores.",
+    "category": "juego de cuna"
+  },
+  {
+    "id": 5,
+    "src": "public/img/trabajos/cuna_rosada.png",
+    "alt": "Cuna de rosada",
+    "title": "Cuna rosada y blanco con motivos de estrellas",
+    "description": "Cuna de rosada.",
+    "category": "juego de cuna"
+  },
+  {
+    "id": 6,
+    "src": "public/img/trabajos/set_sabanas.png",
+    "alt": "Set de sabanas",
+    "title": "Set de sabanas celestes",
+    "description": "Set de sabanas",
+    "category": "sabanas"
+  },
+  {
+    "id": 7,
+    "src": "public/img/trabajos/portabebe_personalizado.jpg",
+    "alt": "Portabebe Personalizado",
+    "title": "Portabebe Personalizado",
+    "description": "Portabebe Personalizado",
+    "category": "bebes"
+  },
+  {
+    "id": 8,
+    "src": "public/img/trabajos/protector_cebra_azul.jpg",
+    "alt": "Protector de cuna",
+    "title": "Protector de cuna",
+    "description": "Protector de cuna con motivos de cebra",
+    "category": "juego de cuna"
+  },
+  {
+    "id": 9,
+    "src": "public/img/trabajos/protector_coche_portabebe_personalizado.jpg",
+    "alt": "Portabebe y protector de coche Personalizado",
+    "title": "Portabebe y protector de coche personalizado",
+    "description": "Portabebe personalizado y protector de coche",
+    "category": "bebes"
+  },
+  {
+    "id": 10,
+    "src": "public/img/trabajos/regalos_varios.jpg",
+    "alt": "Regalos varios",
+    "title": "Regalos varios",
+    "description": "Regalos varios",
+    "category": "bebes"
+  }
+]
